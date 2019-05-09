@@ -6,6 +6,6 @@ class test {
 
 	main() {
 		testMethod();
-		System.out.println("Hello");
+		System.out.println("Output corrected");
 	}
 }
