@@ -1,7 +1,7 @@
 class test {
 
 	static void testMethod(){
-		System.out.println("Called testMethod");
+		System.out.println("testMethod is called !!");
 		System.out.println("Bussiness logic");
 	}
 
