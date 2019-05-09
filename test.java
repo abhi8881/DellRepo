@@ -1,4 +1,4 @@
-class testClass {
+class test {
 
 	static void testMethod(){
 		System.out.println("testMethod");
